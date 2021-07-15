@@ -1,5 +1,5 @@
 //  QUESTION
-
+/*
 
 Find the element that appears once
 Medium Accuracy: 57.91% Submissions: 10523 Points: 4
@@ -37,7 +37,7 @@ Expected Auxiliary Space: O(1).
 Constraints
 0 <   N  <= 10^6
 0 <= A[i] <= 10^9
-
+*/
 //  CODE
 #include <bits/stdc++.h>
 
